@@ -1,12 +1,12 @@
 {
-	"slug" : "sample-slug",
-	"title" : "Sample Project",
+	"slug" : "create-form-node-js",
+	"title" : "Create a form in Node.js",
 	"preview": "https://path/to/image.png",
 	"status": "draft",
-	"translations": ["us"],
-	"technologies": ["some-technology"],
+	"translations": ["es"],
+	"technologies": ["node", "node.js", "html/css", "ejs", "express", "express.js"],
 	"difficulty": "beginner",
-	"syntax": null,
+	"syntax": "node",
 	"duration" : 2,
-	"description" : "Describe your proyect with 250 chars max"
+	"description" : "Create your a form using the EJS (Embedded JavaScript templates) and Express.js to render the HTML/CSS, validate using Node"
 }
