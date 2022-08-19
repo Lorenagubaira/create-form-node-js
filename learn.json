@@ -3,7 +3,7 @@
 	"title" : "Create a form in Node.js",
 	"preview": "https://github.com/4GeeksAcademy/create-form-node-js/blob/main/preview.jpeg?raw=true",
 	"status": "draft",
-	"translations": ["es"],
+	"translations": ["us","es"],
 	"technologies": ["node", "node.js", "html/css", "ejs", "express", "express.js"],
 	"difficulty": "beginner",
 	"syntax": "node",
