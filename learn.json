@@ -8,5 +8,5 @@
 	"difficulty": "beginner",
 	"syntax": "node",
 	"duration" : 2,
-	"description" : "Create your a form using the EJS (Embedded JavaScript templates) and Express.js to render the HTML/CSS, validate using Node"
+	"description" : "Create a form using the EJS (Embedded JavaScript templates) and Express.js to render the HTML/CSS, validate using Node"
 }
