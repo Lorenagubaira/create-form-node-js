@@ -1,22 +1,23 @@
+<!--hide-->
 # Create un formulario en Node.js 
+<!--endhide-->
 
-Tecnologías: HTML, CSS, JS, Bootstrap, Node, express or express-generator.
+Technologies: HTML, CSS, JS, Bootstrap, Node, express or express-generator.
 
-Vamos a crear un formulario que se rederize desde node/express utilizando el manejado de templates de node `Embedded JavaScript templates`.
-La idea es crear con Bootstrap renderizar los diferentes elementos dentro del diseñor y pasar los datos a mostrar dinamicamente, todos los elementos se deven cargar en una vista principal llamada home.ejs
+Let's create a form that is rendered from node/express using node's `Embedded JavaScript templates` handler.
 
+The idea is to create with Bootstrap render the different elements within the designer and pass the data to display dynamically, all the elements must be loaded in a main view called home.ejs
 
-## 🌱  Cómo iniciar este proyecto
+## 🌱  How to start this project
 
-a) Configura express desde cero.
+a) Configure express from scratch.
 
-b) Crear el proyecto usando express-generator.
+b) Create the project using express-generator.
 
-💡 Importante: guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+💡 Important: save your code to your new repository using `add`, `commit` and `push`.
 
-## Estrategia
+## Strategy
 
-Tomate unos minutos para analizar 🤯 la imagen y dibuja tu estrategia sobre ella, identifica los componentes que vas a utilizar de bootstrap:
+Take a few minutes to analyze 🤯 the image and draw your strategy on it, identify the components that you are going to use from bootstrap.
 
-Una vez terminada la estrategia puedes empezar a codificar, 
-¡Empieza a programar 🎊!
+Once the strategy is finished you can start coding Start programming 🎊!
