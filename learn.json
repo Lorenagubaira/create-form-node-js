@@ -4,7 +4,7 @@
 	"preview": "https://github.com/4GeeksAcademy/create-form-node-js/blob/main/preview.jpeg?raw=true",
 	"status": "draft",
 	"translations": ["us","es"],
-	"technologies": ["node", "node.js", "html/css", "ejs", "express", "express.js"],
+	"technologies": ["node.js", "ejs", "express"],
 	"difficulty": "beginner",
 	"syntax": "node",
 	"projectType": "project",
