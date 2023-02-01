@@ -11,9 +11,9 @@ La idea es crear con Bootstrap renderizar los diferentes elementos dentro del di
 
 a) Configura express desde cero.
 
-b) Crear el proyecto usando express-generator.
+b) Crea el proyecto usando express-generator.
 
-💡 Importante: guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+💡 Importante: guarda tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
 ## Estrategia
 

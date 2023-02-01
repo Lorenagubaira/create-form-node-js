@@ -2,9 +2,9 @@
 # Create un formulario en Node.js 
 <!--endhide-->
 
-Technologies: HTML, CSS, JS, Bootstrap, Node, express or express-generator.
+Technologies: HTML, CSS, JS, Bootstrap, Node, express, or express-generator.
 
-Let's create a form that is rendered from node/express using node's `Embedded JavaScript templates` handler.
+Let's create a form that is rendered from node/express using the node's `Embedded JavaScript templates` handler.
 
 The idea is to create with Bootstrap render the different elements within the designer and pass the data to display dynamically, all the elements must be loaded in a main view called home.ejs
 
@@ -20,4 +20,4 @@ b) Create the project using express-generator.
 
 Take a few minutes to analyze 🤯 the image and draw your strategy on it, identify the components that you are going to use from bootstrap.
 
-Once the strategy is finished you can start coding Start programming 🎊!
+Once the strategy is finished you can start coding! Start programming 🎊!
