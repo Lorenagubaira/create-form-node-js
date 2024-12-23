@@ -7,6 +7,8 @@ Tecnologías: HTML, CSS, JS, Bootstrap, Node, express or express-generator.
 Vamos a crear un formulario que se rederize desde node/express utilizando el manejado de templates de node `Embedded JavaScript templates`.
 La idea es crear con Bootstrap renderizar los diferentes elementos dentro del diseñor y pasar los datos a mostrar dinamicamente, todos los elementos se deven cargar en una vista principal llamada home.ejs
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  Cómo iniciar este proyecto
 
 a) Configura express desde cero.
@@ -14,6 +16,8 @@ a) Configura express desde cero.
 b) Crea el proyecto usando express-generator.
 
 💡 Importante: guarda tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+</onlyfor>
 
 ## Estrategia
 
