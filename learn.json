@@ -1,6 +1,9 @@
 {
 	"slug" : "create-form-node-js",
-	"title" : "Create a form in Node.js",
+	"title" : {
+		"us": "Create a form in Node.js",
+		"es": "Crea un formulario en Node.js"
+	},
 	"preview": "https://github.com/4GeeksAcademy/create-form-node-js/blob/main/preview.jpeg?raw=true",
 	"status": "draft",
 	"translations": ["us","es"],
@@ -8,7 +11,13 @@
 	"difficulty": "beginner",
 	"syntax": "node",
 	"projectType": "project",
-	"autoPlay": "false",
+	"autoPlay": false,
 	"duration" : 2,
-	"description" : "Create a form using the EJS (Embedded JavaScript templates) and Express.js to render the HTML/CSS, validate using Node"
+	"description" : {
+		"us":"Learn how to create and render a dynamic form using Node.js, Express, and EJS templates. You'll style the form with Bootstrap and display it in a main `home.ejs` view. A great hands-on project to strengthen your backend and frontend integration skills using modern web technologies.",
+		"es":"Aprende a crear y renderizar un formulario dinámico utilizando Node.js, Express y plantillas EJS. Estilizarás el formulario con Bootstrap y lo mostrarás en una vista principal `home.ejs`. Un excelente proyecto práctico para fortalecer tus habilidades de integración entre el backend y el frontend utilizando tecnologías web modernas."
+    },
+	"telemetry": {
+	    	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=490"
+	  }
 }
